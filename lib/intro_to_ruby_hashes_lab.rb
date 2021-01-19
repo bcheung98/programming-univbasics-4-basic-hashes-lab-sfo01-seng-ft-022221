@@ -6,7 +6,6 @@ def my_hash
   pc_parts = {
     cpu: "Ryzen 7 3700X",
     gpu: "GeForce GTX 1060",
-    ram: "32 GB DDR4"
   }
 end
 
